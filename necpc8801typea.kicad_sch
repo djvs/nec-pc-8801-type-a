@@ -5121,7 +5121,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1581be5a-c813-46ce-985c-5fe228651e0c)
   )
-  (text "This source describes Open Hardware and is licensed under the CERN-OHL-P v2\nYou may redistribute and modify this documentation and make products using it under the terms of the\nCERN-OHL-P v2 (https:/cern.ch/cern-ohl).\nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF\nMERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the\nCERN-OHL-P v2 for applicable conditions"
+  (text "This source describes Open Hardware and is licensed under the CERN-OHL-P v2\nYou may redistribute and modify this documentation and make products using it under the terms of the\nCERN-OHL-P v2 (https:/cern.ch/cern-ohl).\nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF\nMERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the\nCERN-OHL-P v2 for applicable conditions.\n\nOriginal schematic (stm32f446-based Model M \"Overnumpad\" controller) credit to Andre Purdei "
     (at 439.42 384.81 0)
     (effects (font (size 1.0922 1.0922)) (justify left bottom))
     (uuid 3e88e3a9-56fe-4e32-8aed-4a8dee60c0d7)
