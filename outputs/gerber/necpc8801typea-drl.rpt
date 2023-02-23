@@ -1,0 +1,28 @@
+Drill report for necpc8801typea.kicad_pcb
+Created on Wed 22 Feb 2023 10:35:37 PM EST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'necpc8801typea-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (475 holes)
+    T2  0.900mm  0.0354"  (12 holes)
+    T3  1.470mm  0.0579"  (436 holes)
+    T4  2.000mm  0.0787"  (218 holes)
+    T5  4.500mm  0.1772"  (1 hole)
+
+    Total plated holes count 1142
+
+
+Drill file 'necpc8801typea-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.750mm  0.0689"  (218 holes)
+    T2  3.988mm  0.1570"  (109 holes)
+
+    Total unplated holes count 327
